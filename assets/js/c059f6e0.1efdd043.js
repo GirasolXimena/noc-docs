@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknature_of_code=self.webpackChunknature_of_code||[]).push([[5043],{4949:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/noc-docs/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
