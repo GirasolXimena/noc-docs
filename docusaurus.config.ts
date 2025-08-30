@@ -73,7 +73,7 @@ const config: Config = {
     // Replace with your project's social card
     image: "img/docusaurus-social-card.jpg",
     navbar: {
-      title: "My Site",
+      title: "Nature of Code - Study Notes",
       logo: {
         alt: "My Site Logo",
         src: "img/logo.svg",
@@ -136,7 +136,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Ximena Girasol. Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,

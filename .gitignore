@@ -1,3 +1,4 @@
-node_modules
 .docusaurus
 .env
+build
+node_modules
