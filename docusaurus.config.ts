@@ -8,6 +8,7 @@ const config: Config = {
   title: "Nature of Code",
   tagline: "Study with me :)",
   favicon: "img/favicon.ico",
+  trailingSlash: true,
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
