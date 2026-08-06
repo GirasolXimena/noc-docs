@@ -7,7 +7,9 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"maattdd.gitless"
+				"maattdd.gitless",
+				"sleistner.vscode-fileutils",
+				"esbenp.prettier-vscode"
 			]
 		}
 	}
